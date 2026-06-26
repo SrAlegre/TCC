@@ -1,0 +1,39 @@
+\section{Trabalhos relacionados}
+
+A qualidade dos sinais eletromiográficos de superfície (sEMG) é fator determinante para o sucesso de sistemas de reconhecimento de gestos e controle de próteses. A literatura recente tem concentrado esforços tanto no \textit{hardware} de aquisição — multiplicando canais e integrando filtros embarcados — quanto no pré‑processamento digital, etapa essencial para reduzir ruídos e artefatos antes da classificação.
+A Tabela~\ref{tab:aquisicao_semg} sumariza os principais trabalhos que abordam a aquisição e a filtragem de sinais sEMG, evidenciando as soluções adotadas em diferentes épocas e contextos.
+
+\begin{table}[htpb]
+    \centering
+    \small
+    \setlength{\extrarowheight}{3pt}
+    \caption{Trabalhos relacionados focados na aquisição e filtragem de sinais sEMG.}
+    \label{tab:aquisicao_semg}
+    \begin{tabularx}{\textwidth}{@{} 
+        >{\RaggedRight\arraybackslash}X 
+        >{\RaggedRight\arraybackslash}X 
+        >{\RaggedRight\arraybackslash}X 
+        @{}}
+        \toprule
+        \rowcolor{gray!20} \textbf{Título do Artigo (Ano)} & \textbf{Sensor (Dispositivo, Quantidade e Canais)} & \textbf{Filtros Usados (Pré-processamento)} \\
+        \midrule
+        \textit{Processing and Analysis of EMG Signals from MYO Armband for Upper-Limb Prosthesis Control} \cite{ProcessingAndAnalysisOfEMGSignalsFromMYO} & 1 dispositivo (Myo Armband). 8 canais de eletrodos a seco posicionados ao redor do antebraço. & Filtro Passa-banda de 20--90 Hz e Filtro \textit{Notch} de 50 Hz. Retificação e suavização (RMS). \\
+        \addlinespace
+        \textit{High-Performance Surface Electromyography Armband Design for Gesture Recognition} \cite{Zhang2023-gn} & 1 bracelete customizado ($\alpha$ Armband). 16 canais com conversores ADC de 16-bit. & Largura de banda ajustável de 0.1 Hz a 20 kHz. Filtragem no hardware para capturar altas frequências. \\
+        \addlinespace
+        \textit{Medium density EMG armband for gesture recognition} \cite{Aghchehli2025-te} & 1 bracelete de “Média Densidade” customizado. 21 canais usando eletrodos digitais de contato por mola. & Filtro de Interferência Eletromagnética (EMI) integrado no hardware. IA minimiza necessidade de filtros digitais. \\
+        \addlinespace
+        \textit{Machine Learning Approaches for EMG Signal Classification to Predict Hand Gesture} \cite{Rendon_Caballero2026-ar} & Eletrodos de superfície padrão. Comparação entre matrizes de 10, 7 e 4 canais. & Filtro \textit{Notch} de 50 Hz e Filtro Passa-banda de 50--500 Hz. Segmentação em janelas de tempo curtas. \\
+        \addlinespace
+        \textit{putEMG—A Surface Electromyography Hand Gesture Recognition Dataset}\cite{Kaczmarek2019-mw}  & Matriz de eletrodos sEMG no antebraço coletando dados em altíssima densidade via 24 canais. & Filtros digitais passa-baixo e passa-alto nos dados brutos para estabelecer o \textit{baseline} de classificação. \\
+        \bottomrule
+    \end{tabularx}
+\end{table}
+
+A análise conjunta dos trabalhos revela três tendências claras:
+\begin{enumerate}
+    \item \textbf{Densificação dos canais}: Os sistemas evoluíram de 8 canais (Myo Armband) para arranjos com 21 ou 24 canais, buscando maior resolução espacial do sinal.
+    \item \textbf{Pré‑processamento \textit{on‑chip}}: A filtragem analógica ou digital embarcada (EMI, banda ajustável) vem ganhando espaço, reduzindo a carga sobre o software de classificação.
+    \item \textbf{Par mínimo de filtros digitais}: A combinação de um filtro passa‑banda (tipicamente 20–500 Hz) com um filtro \textit{notch} em 50 Hz (ou 60 Hz) persiste como prática padrão, mesmo quando métodos de aprendizado de máquina são empregados na etapa seguinte.
+\end{enumerate}
+Essas constatações orientam a escolha do \textit{hardware} e da cadeia de filtros adotados no presente trabalho, que busca equilibrar densidade de canais, qualidade do sinal e complexidade computacional.

@@ -1,0 +1,134 @@
+% !TeX spellcheck = pt_BR
+
+
+\documentclass[12pt,a4paper,oneside,openany]{abntex2}
+
+% PACOTES OBRIGATÓRIOS (Idioma e codificação)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+% PACOTES PARA O TEXTO E CITAÇÕES
+\usepackage{csquotes}      % Aspas inteligentes
+\usepackage{graphicx}      % Inserir imagens
+\usepackage{tabularx}
+\usepackage{amssymb}
+
+% PACOTES PARA A TABELA (NECESSÁRIOS)
+\usepackage{array}         % Para \arraybackslash e \extrarowheight
+\usepackage{booktabs}      % Para \toprule, \midrule, \bottomrule, \addlinespace
+\usepackage[table]{xcolor} % Para \rowcolor
+\usepackage{ragged2e}      % Alinhamento
+
+% CONFIGURAÇÕES DE MARGEM E ESPAÇAMENTO
+\setlrmarginsandblock{3cm}{2cm}{*}
+\setulmarginsandblock{3cm}{2cm}{*}
+\checkandfixthelayout
+\OnehalfSpacing
+
+\usepackage[
+    backend=biber,
+    style=abnt,
+    natbib=true,
+    hyperref=true
+]{biblatex}
+\addbibresource{6_referencias/referencias.bib}
+
+\usepackage{hyperref}
+
+\titulo{Análise de sinais Eletromiografia para uso de próteses}
+\autor{Yuri Martins Alegre}
+\data{2026}
+\instituicao{Universidade Federal de Santa Catarina -- UFSC}
+\newcommand{\centro}{Centro de Ciências, Tecnologias e Saúde -- CTS}
+\newcommand{\curso}{Curso de Engenharia de Computação}
+\newcommand{\cidade}{Araranguá}
+\newcommand{\estado}{SC}
+\newcommand{\ano}{2026}
+\orientador{Prof. Rodrigo Pereira}
+\coorientador{Prof. Lucas Bertinetti}
+
+\renewcommand{\imprimircapa}{
+    \begin{capa}
+        \begin{center}
+             \begin{figure}[h]
+                 \center
+             \includegraphics[width=3.4cm]{Arquivos/Logo_Universidade.png}
+             \end{figure}
+             \vspace{1cm}
+            
+            \textsc{\imprimirinstituicao}\\
+            \textsc{\centro}\\
+            \textsc{\curso}\\
+            
+            \vspace{2.5cm}
+            \imprimirautor
+            
+            \vspace{2.5cm}
+            \textbf{\imprimirtitulo}
+            
+            \vfill
+            
+            \cidade/\estado\\
+            \ano
+        \end{center}
+    \end{capa}
+}
+
+\renewcommand{\imprimirfolhaderosto}{
+    \begin{folhaderosto}
+                
+        \begin{center}    
+            \textsc{\imprimirtitulo}
+        \end{center}
+        
+        \vspace{2cm}    
+        
+        \begin{center}
+            \imprimirautor
+        \end{center}
+        
+        \vspace{2.5cm}
+        
+        \hfill \parbox{8.5cm} {\noindent
+            Relatório técnico de pré-projeto submetido à \imprimirinstituicao~como parte dos requisitos da disciplina de Projeto Integrador II, apresentando a proposta de desenvolvimento para o Trabalho de Conclusão de Curso do Bacharelado em Engenharia de Computação.            
+            
+            \vspace{0.5cm}
+            Orientador: \imprimirorientador\\
+            Coorientador: \imprimircoorientador
+        }
+        
+        \vfill
+        \vspace{2.0cm}
+        
+        \begin{center}
+            \cidade/\estado\\
+            \ano
+        \end{center}
+    \end{folhaderosto}
+}
+
+\begin{document}
+
+\imprimircapa
+
+\imprimirfolhaderosto
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+\textual
+
+% Certifique-se de que estes ./arquivos existam nos seus diretórios
+\input{1_introducao/introducao}
+\input{2_fundamento_teorico/fundamento_teorico}
+\input{3_proposta_desenvolvimento/proposta_desenvolvimento}
+\input{4_cronograma/cronograma}
+\input{5_consideracoes_finais/consideracoes_finais}
+
+\chapter*{Referências}
+\addcontentsline{toc}{chapter}{Referências}
+\printbibliography[heading=none]
+
+\end{document}

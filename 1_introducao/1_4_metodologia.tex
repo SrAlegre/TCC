@@ -1,0 +1,10 @@
+\section{Metodologia}
+
+A metodologia adotada segue uma abordagem de desenvolvimento iterativo e incremental, organizada em cinco etapas principais. 
+
+Na primeira etapa, realiza-se a revisão bibliográfica sobre processamento de sinais sEMG, técnicas de aprendizado de máquina aplicadas à classificação de gestos e sistemas embarcados para controle de próteses.
+
+Na segunda etapa, projetar e implementar o hardware de condicionamento de sinal, composto por filtros passa-altas, passa-baixas e rejeita-faixa (notch), amplificadores de instrumentação e circuitos de retificação e envoltória. Os sinais condicionados são digitalizados pelo conversor analógico-digital do hardware transmissor e enviados ao hardware receptor.
+
+A terceira etapa, consiste na utilização do dataset público NinaPro \cite{Ninapro} DB2 (Non-Invasive Adaptive Prosthetics Database 2) como base inicial para o desenvolvimento e validação do modelo de aprendizado de máquina, antes da coleta de dados com voluntários. O NinaPro DB2 contém registros de sEMG de 40 sujeitos íntegros realizando 49 movimentos de mão, capturados com 12 eletrodos Delsys Trigno a uma taxa de amostragem de 2 kHz, com 6 repetições de cada movimento por sujeito \cite{Atzori2014Electromyography}. A utilização dessa base pública permite o desenvolvimento e a avaliação dos algoritmos de classificação em um conjunto de dados amplo e validado pela comunidade científica, reduzindo o risco de overfitting e acelerando o ciclo de desenvolvimento. Após a validação do pipeline de processamento e classificação sobre o NinaPro DB2, procede-se à coleta de dados sEMG de voluntários saudáveis realizando os 5 a 8 gestos-alvo selecionados para o sistema protético, visando à adaptação e ao ajuste fino do modelo ao hardware desenvolvido.
+
