@@ -1,0 +1,730 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Aghchehli2025-te}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=71f452bb99b5ca0a48342efbc943b889}{%
+           family={Aghchehli},
+           familyi={A\bibinitperiod},
+           given={Eisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf55dae7afa3a97812e352500630da82}{%
+           family={Jabbari},
+           familyi={J\bibinitperiod},
+           given={Milad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9212f88dfa37644c76c31abcaf505128}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Chenfei},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc0a43e529902f6f47ac55292740e428}{%
+           family={Dyson},
+           familyi={D\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a2fc7302b3c91c76efc63722e357157}{%
+           family={Nazarpour},
+           familyi={N\bibinitperiod},
+           given={Kianoush},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0462d224f5a09e6af0f25b5e7ac35a5c}
+      \strng{fullhash}{276cfccee649af7afdcd981773c16210}
+      \strng{fullhashraw}{276cfccee649af7afdcd981773c16210}
+      \strng{bibnamehash}{0462d224f5a09e6af0f25b5e7ac35a5c}
+      \strng{authorbibnamehash}{0462d224f5a09e6af0f25b5e7ac35a5c}
+      \strng{authornamehash}{0462d224f5a09e6af0f25b5e7ac35a5c}
+      \strng{authorfullhash}{276cfccee649af7afdcd981773c16210}
+      \strng{authorfullhashraw}{276cfccee649af7afdcd981773c16210}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Front. Neurorobot.}
+      \field{number}{1531815}
+      \field{title}{Medium density {EMG} armband for gesture recognition}
+      \field{volume}{19}
+      \field{year}{2025}
+    \endentry
+    \entry{Atzori2014Electromyography}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=36ec023c0c24455d5c78dc2a9b80661a}{%
+           family={Atzori},
+           familyi={A\bibinitperiod},
+           given={Manfredo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68b0d3d19f99d865a4d0d312abef38e9}{%
+           family={Gijsberts},
+           familyi={G\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cabb1e88b32b8e4289b4bcddec42ee4a}{%
+           family={Castellini},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d4f580ce73488f4a2f658d6e453bd4d}{%
+           family={Caputo},
+           familyi={C\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=997af32b7776b36d350e18b38a5b4548}{%
+           family={Hager},
+           familyi={H\bibinitperiod},
+           given={Anne-Gabrielle\bibnamedelima Mittaz},
+           giveni={A\bibinithyphendelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3474fcb5f1f19e44a4942704225d3444}{%
+           family={Elsig},
+           familyi={E\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b012c862b579fef99bcf67241e045f88}{%
+           family={Giatsidis},
+           familyi={G\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f9948f110dc2c609e5ca5c3f1e075f7}{%
+           family={Bassetto},
+           familyi={B\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e376efb9e5e4ad24dcc8a47c937f2a9}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9558c48782b175cce11510f05eabf2b1}
+      \strng{fullhash}{f0f5cc284b053da7a5c4ff1fb8c3bb5a}
+      \strng{fullhashraw}{f0f5cc284b053da7a5c4ff1fb8c3bb5a}
+      \strng{bibnamehash}{9558c48782b175cce11510f05eabf2b1}
+      \strng{authorbibnamehash}{9558c48782b175cce11510f05eabf2b1}
+      \strng{authornamehash}{9558c48782b175cce11510f05eabf2b1}
+      \strng{authorfullhash}{f0f5cc284b053da7a5c4ff1fb8c3bb5a}
+      \strng{authorfullhashraw}{f0f5cc284b053da7a5c4ff1fb8c3bb5a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Data}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Electromyography data for non-invasive naturally-controlled robotic hand prostheses}
+      \field{volume}{1}
+      \field{year}{2014}
+      \field{pages}{140053}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/sdata201453
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/sdata201453
+      \endverb
+    \endentry
+    \entry{Castro}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1dfcd96f78d507771148c9bcfafca2b1}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelimb Claudia\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5bbf4dcade8f75dca3bee8283cae51c}{%
+           family={Arjunan},
+           familyi={A\bibinitperiod},
+           given={Sridhar\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff6774d3e17d57fb1585265a7cd2f13f}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Dinesh\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science and Business Media LLC}%
+      }
+      \strng{namehash}{5040544352df5a991d088108c1127ba3}
+      \strng{fullhash}{5040544352df5a991d088108c1127ba3}
+      \strng{fullhashraw}{5040544352df5a991d088108c1127ba3}
+      \strng{bibnamehash}{5040544352df5a991d088108c1127ba3}
+      \strng{authorbibnamehash}{5040544352df5a991d088108c1127ba3}
+      \strng{authornamehash}{5040544352df5a991d088108c1127ba3}
+      \strng{authorfullhash}{5040544352df5a991d088108c1127ba3}
+      \strng{authorfullhashraw}{5040544352df5a991d088108c1127ba3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioMedical Engineering OnLine}
+      \field{note}{[Online; accessed 2026-06-20]}
+      \field{number}{1}
+      \field{title}{Selection of suitable hand gestures for reliable myoelectric human computer interface}
+      \field{volume}{14}
+      \field{year}{2015}
+    \endentry
+    \entry{CLANCY20021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a8aa98944bfd288ebd6e65094eaaebc5}{%
+           family={Clancy},
+           familyi={C\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae9926f9785b1544e8b5ce0ba4647f91}{%
+           family={Morin},
+           familyi={M\bibinitperiod},
+           given={E.\bibnamedelimi L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45367be5109fda274dde33377249dc2f}{%
+           family={Merletti},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{fullhash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{fullhashraw}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{bibnamehash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{authorbibnamehash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{authornamehash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{authorfullhash}{a58be00e9d6a998d2219a250e4a7376f}
+      \strng{authorfullhashraw}{a58be00e9d6a998d2219a250e4a7376f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1050-6411}
+      \field{journaltitle}{Journal of Electromyography and Kinesiology}
+      \field{number}{1}
+      \field{title}{Sampling, noise-reduction and amplitude estimation issues in surface electromyography}
+      \field{volume}{12}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1050641101000335
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1050641101000335
+      \endverb
+    \endentry
+    \entry{Costa}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f4ea25c3b46eccce47cdc3e2c01ec33f}{%
+           family={Costa-Garcia},
+           familyi={C\bibinithyphendelim G\bibinitperiod},
+           given={Alvaro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c8a692985c7d6e9d407977be3a468f0}{%
+           family={Murai},
+           familyi={M\bibinitperiod},
+           given={Akihiko},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{fullhash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{fullhashraw}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{bibnamehash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{authorbibnamehash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{authornamehash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{authorfullhash}{9e077c6efe93033fdec64fb84dce0063}
+      \strng{authorfullhashraw}{9e077c6efe93033fdec64fb84dce0063}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioengineering}
+      \field{number}{11}
+      \field{title}{The {Spectral} {Footprint} of {Neural} {Activity}: How {MUAP} {Properties} and {Spike} {Train} {Variability} {Shape} {sEMG}}
+      \field{volume}{12}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2306-5354/12/11/1181
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2306-5354/12/11/1181
+      \endverb
+    \endentry
+    \entry{esp32_datasheet}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66589871a3c3f27bcbf3891133af42b1}{%
+           family={{Espressif Systems}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{fullhash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{fullhashraw}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{bibnamehash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{authorbibnamehash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{authornamehash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{authorfullhash}{66589871a3c3f27bcbf3891133af42b1}
+      \strng{authorfullhashraw}{66589871a3c3f27bcbf3891133af42b1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ESP32 Series Datasheet}
+      \field{version}{5.2}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://documentation.espressif.com/esp32_datasheet_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://documentation.espressif.com/esp32_datasheet_en.pdf
+      \endverb
+    \endentry
+    \entry{Kaczmarek2019-mw}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c6a6043aaa19f2eee414eaf496d243d}{%
+           family={Kaczmarek},
+           familyi={K\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd1ff094f21551cdc36502103876eab5}{%
+           family={Mańkowski},
+           familyi={M\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=320957b6345e462884f4f251ff2c6fb0}{%
+           family={Tomczyński},
+           familyi={T\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{fullhash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{fullhashraw}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{bibnamehash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{authorbibnamehash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{authornamehash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{authorfullhash}{8ebd1beee7dbf26d4856c74c22962f84}
+      \strng{authorfullhashraw}{8ebd1beee7dbf26d4856c74c22962f84}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors (Basel)}
+      \field{number}{16}
+      \field{title}{{PutEMG-A} surface electromyography hand gesture recognition dataset}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{E3548}
+      \range{pages}{-1}
+    \endentry
+    \entry{Krasoulis2020Multi}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=afb886b47ba75ee4c402c98556845190}{%
+           family={Krasoulis},
+           familyi={K\bibinitperiod},
+           given={Agamemnon},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b2c17552ac9061afc4606fc8fc554b9}{%
+           family={Vijayakumar},
+           familyi={V\bibinitperiod},
+           given={Sethu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a2fc7302b3c91c76efc63722e357157}{%
+           family={Nazarpour},
+           familyi={N\bibinitperiod},
+           given={Kianoush},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Electrical and Electronics Engineers (IEEE)}%
+      }
+      \strng{namehash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{fullhash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{fullhashraw}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{bibnamehash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{authorbibnamehash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{authornamehash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{authorfullhash}{97388aa36de257fbb831ce7efb06ad41}
+      \strng{authorfullhashraw}{97388aa36de257fbb831ce7efb06ad41}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Neural Systems and Rehabilitation Engineering}
+      \field{month}{2}
+      \field{note}{[Online; accessed 2026-06-22]}
+      \field{number}{2}
+      \field{title}{Multi-{Grip} classification-based prosthesis control with two {EMG}-{IMU} sensors}
+      \field{volume}{28}
+      \field{year}{2020}
+      \field{pages}{508\bibrangedash 518}
+      \range{pages}{11}
+    \endentry
+    \entry{Diretrizes}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1c81f07bc381d0b027a5c64d410ed53}{%
+           family={{Ministério da Saúde}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{fullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{bibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorbibnamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authornamehash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhash}{e1c81f07bc381d0b027a5c64d410ed53}
+      \strng{authorfullhashraw}{e1c81f07bc381d0b027a5c64d410ed53}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diretrizes de atenção à pessoa amputada}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-com-deficiencia/publicacoes/diretrizes-de-atencao-a-pessoa-amputada.pdf/view
+      \endverb
+      \verb{url}
+      \verb https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-com-deficiencia/publicacoes/diretrizes-de-atencao-a-pessoa-amputada.pdf/view
+      \endverb
+    \endentry
+    \entry{Ninapro}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5fa70bc76a5ee272d6868b71fe07d8f0}{%
+           family={{NINAPRO Database}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{fullhash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{fullhashraw}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{bibnamehash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{authorbibnamehash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{authornamehash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{authorfullhash}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \strng{authorfullhashraw}{5fa70bc76a5ee272d6868b71fe07d8f0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ninapro: Non-Invasive Adaptive Prosthetics Database}
+      \verb{urlraw}
+      \verb https://ninapro.hevs.ch/instructions/DB2.html
+      \endverb
+      \verb{url}
+      \verb https://ninapro.hevs.ch/instructions/DB2.html
+      \endverb
+    \endentry
+    \entry{Rendon_Caballero2026-ar}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=ae54a5694ac3f29ff57a28f4cbb67525}{%
+           family={Rendón\bibnamedelima Caballero},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e8e2554274451d791e961cc55118eaf}{%
+           family={Rojo\bibnamedelima González},
+           familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ab9e2f8e9e3c549ccd9bad21860188b}{%
+           family={Aviles},
+           familyi={A\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e26ecbf784f53648bc581bf688ca2f0}{%
+           family={Alvarado},
+           familyi={A\bibinitperiod},
+           given={José\bibnamedelimb Manuel\bibnamedelima Alvarez},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4c173567cc976de9c2b8137b40b2132}{%
+           family={Robles-Ocampo},
+           familyi={R\bibinithyphendelim O\bibinitperiod},
+           given={José\bibnamedelima Billerman},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831ea60ff8ae53ebcca27db7ee8b5832}{%
+           family={Sevilla-Camacho},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Perla\bibnamedelima Yazmin},
+           giveni={P\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38bc4885ee7654a1eeb070eb0b335b62}{%
+           family={Rodríguez-Reséndiz},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Juvenal},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6068d9aae731bb20bf414f50935c4f50}
+      \strng{fullhash}{6d1695bdbff219a6422e37f7d49a3800}
+      \strng{fullhashraw}{6d1695bdbff219a6422e37f7d49a3800}
+      \strng{bibnamehash}{6068d9aae731bb20bf414f50935c4f50}
+      \strng{authorbibnamehash}{6068d9aae731bb20bf414f50935c4f50}
+      \strng{authornamehash}{6068d9aae731bb20bf414f50935c4f50}
+      \strng{authorfullhash}{6d1695bdbff219a6422e37f7d49a3800}
+      \strng{authorfullhashraw}{6d1695bdbff219a6422e37f7d49a3800}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI (Basel)}
+      \field{number}{1}
+      \field{title}{Effective approach for classifying {EMG} signals through reconstruction using autoencoders}
+      \field{volume}{7}
+      \field{year}{2026}
+      \field{pages}{36}
+      \range{pages}{1}
+    \endentry
+    \entry{ProcessingAndAnalysisOfEMGSignalsFromMYO}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=28fab2043a43c108506371e9413aa047}{%
+           family={Yotov},
+           familyi={Y\bibinitperiod},
+           given={Yoto},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f631a7ce9a3f173865ae16764b29e25}{%
+           family={Petrov},
+           familyi={P\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cce607fa467bec0f10c3fd6b4a52a31c}{%
+           family={Lyubenova},
+           familyi={L\bibinitperiod},
+           given={Velislava},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d67c3999678f206522df19af54541d0}
+      \strng{fullhash}{3d67c3999678f206522df19af54541d0}
+      \strng{fullhashraw}{3d67c3999678f206522df19af54541d0}
+      \strng{bibnamehash}{3d67c3999678f206522df19af54541d0}
+      \strng{authorbibnamehash}{3d67c3999678f206522df19af54541d0}
+      \strng{authornamehash}{3d67c3999678f206522df19af54541d0}
+      \strng{authorfullhash}{3d67c3999678f206522df19af54541d0}
+      \strng{authorfullhashraw}{3d67c3999678f206522df19af54541d0}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Bioautomation}
+      \field{number}{4}
+      \field{title}{Processing and analysis of {EMG} signals from {MYO} Armband for upper-limb prosthesis control}
+      \field{volume}{29}
+      \field{year}{2025}
+      \field{pages}{315\bibrangedash 326}
+      \range{pages}{12}
+    \endentry
+    \entry{Zhang2023-gn}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3c22dbdb7d0da5680619cc977bdc44d5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ruihao},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c946a1a268daa47683735b937b420e98}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Yingping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c582c4a9fb8ae5f91bf3168c14f3656c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Huixin},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fbf235cf2a910fb6d2af0a18a8071b0}{%
+           family={Dang},
+           familyi={D\bibinitperiod},
+           given={Lizhi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb7d20212962d6c7a0983f8f5ffd216}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yunze},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7fa344a4ef5750c894ba12f87af7e454}
+      \strng{fullhash}{cb73ad03ff3713bb54df0ed2599ddec1}
+      \strng{fullhashraw}{cb73ad03ff3713bb54df0ed2599ddec1}
+      \strng{bibnamehash}{7fa344a4ef5750c894ba12f87af7e454}
+      \strng{authorbibnamehash}{7fa344a4ef5750c894ba12f87af7e454}
+      \strng{authornamehash}{7fa344a4ef5750c894ba12f87af7e454}
+      \strng{authorfullhash}{cb73ad03ff3713bb54df0ed2599ddec1}
+      \strng{authorfullhashraw}{cb73ad03ff3713bb54df0ed2599ddec1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors (Basel)}
+      \field{number}{10}
+      \field{title}{High-performance surface electromyography armband design for gesture recognition}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{4940}
+      \range{pages}{1}
+    \endentry
+    \entry{Rehman}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=f059f2ee4100cebbf7afcf568c28491f}{%
+           family={Zia\bibnamedelimb Ur\bibnamedelima Rehman},
+           familyi={Z\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7799c4bd7ff5566bad4e525b8c304855}{%
+           family={Waris},
+           familyi={W\bibinitperiod},
+           given={Asim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d352e69862491e4bc3a9feb34a9f959}{%
+           family={Gilani},
+           familyi={G\bibinitperiod},
+           given={Syed\bibnamedelima Omer},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f4fea64265e134a71b2397e05d12e3c}{%
+           family={Jochumsen},
+           familyi={J\bibinitperiod},
+           given={Mads},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7da0ce61c6cae93ef9b63c7d69075b8d}{%
+           family={Niazi},
+           familyi={N\bibinitperiod},
+           given={Imran\bibnamedelima Khan},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f6b665f2e53b2d089654408a1dd3cbd}{%
+           family={Jamil},
+           familyi={J\bibinitperiod},
+           given={Mohsin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d54cc7049c27dd477c5b429e76778ea}{%
+           family={Farina},
+           familyi={F\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be2e612c592c418bee6ee1cdbfd4fc41}{%
+           family={Kamavuako},
+           familyi={K\bibinitperiod},
+           given={Ernest\bibnamedelima Nlandu},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9bf70378182361574cfa0161b607979}
+      \strng{fullhash}{79b6a1d8217dba2bedcb641b04dd576f}
+      \strng{fullhashraw}{79b6a1d8217dba2bedcb641b04dd576f}
+      \strng{bibnamehash}{d9bf70378182361574cfa0161b607979}
+      \strng{authorbibnamehash}{d9bf70378182361574cfa0161b607979}
+      \strng{authornamehash}{d9bf70378182361574cfa0161b607979}
+      \strng{authorfullhash}{79b6a1d8217dba2bedcb641b04dd576f}
+      \strng{authorfullhashraw}{79b6a1d8217dba2bedcb641b04dd576f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{number}{8}
+      \field{title}{Multiday emg-based classification of hand motions with deep learning techniques}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{2497}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC6111443/#sec4-sensors-18-02497
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC6111443/#sec4-sensors-18-02497
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
